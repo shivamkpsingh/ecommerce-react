@@ -1,0 +1,9 @@
+
+.scrollbar::-webkit-scrollbar{
+    display: none;
+}
+@media only screen and (min-width:640px){
+    .Customizaton__section{
+        max-height: 705px;
+    }
+}

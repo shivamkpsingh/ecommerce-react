@@ -1,0 +1,35 @@
+const trendData=[
+    {
+        id:1,
+        img:"/images/tr1.png",
+    },
+    {
+        id:2,
+        img:"/images/tr6.png",
+    },
+    {
+        id:3,
+        img:"/images/tr3.png",
+    },
+    {
+        id:4,
+        img:"/images/tr4.png",
+    },
+    {
+        id:5,
+        img:"/images/tr5.png",
+    },
+    {
+        id:6,
+        img:"/images/tr2.png",
+    },
+    {
+        id:7,
+        img:"/images/tr3.png",
+    },
+    {
+        id:8,
+        img:"/images/tr1.png",
+    },
+]
+export default trendData;

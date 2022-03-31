@@ -1,0 +1,10 @@
+.merchant__box__1{
+    width: 150px;
+    height: 150px;
+    /* border-radius: 100%; */
+}
+.merchant__box__1>img{
+    width: 82%;
+    height: 82%;
+    border-radius: 100%;
+}

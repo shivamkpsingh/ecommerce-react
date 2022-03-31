@@ -1,0 +1,8 @@
+.productDetail__middle::-webkit-scrollbar{
+    display: none;
+}
+@media only screen and (min-width:768px){
+    .productDetail__section{
+        max-height: 705px;
+    }
+}

@@ -1,0 +1,11 @@
+.speImg{
+    width: 422px;
+    height: 422px;
+}
+
+.speImg>img{
+    /* width: 422px; */
+    /* height: 422px; */
+    width: 100%;
+    height: 100%;
+}

@@ -1,0 +1,9 @@
+.userSidebar{
+    height: 85vh;
+    /* background-color: lightsalmon; */
+}
+.userProfile__sidebar{
+    flex: 0.2;
+    /* background-color: lightgreen; */
+    height: 100vh;
+}

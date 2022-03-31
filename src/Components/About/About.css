@@ -1,0 +1,9 @@
+.about{
+    background: #F0EB8F7A;
+
+}
+.about>a{
+    background: linear-gradient(180deg, #FFDB5C 0%, rgba(243, 220, 138, 0) 152.5%);
+    width: fit-content;
+    margin: 25px auto 10px auto;
+}

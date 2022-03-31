@@ -1,0 +1,19 @@
+
+.productPage__right::-webkit-scrollbar{
+    display: none;
+}
+.ProductPage__List::-webkit-scrollbar{
+    display: none;
+}
+.productPage__total{
+    height: 400px;
+}
+.productPage__sidebar::-webkit-scrollbar{
+    display: none;
+}
+
+@media only screen and (min-width:640px){
+    .productPage__total{
+        height: 705px;
+    }
+}

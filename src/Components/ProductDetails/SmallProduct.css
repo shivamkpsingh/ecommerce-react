@@ -1,0 +1,13 @@
+.smallProduct::-webkit-scrollbar{
+    display: none;
+}
+.smallProduct{
+    width: 150px;
+    height: 150px;
+}
+.smallProduct>img{
+    height: 150px;
+    object-fit:contain;
+    border: 1px solid gray;
+    width:  150px;
+}

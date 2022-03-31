@@ -1,0 +1,16 @@
+.loginLeft__first{
+    /* background: #C4C4C4; */
+    background-color: #ffffff;
+}
+.loginLeft__first>input{
+    /* background: #C4C4C4; */
+    background-color: #ffffff;
+    font-size: 16px;
+}
+.login__input::placeholder{
+    color: #000000;
+    font-size: 16px;
+}
+.loginButton{
+    background: #64697A;
+}

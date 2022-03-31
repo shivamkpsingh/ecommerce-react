@@ -1,0 +1,9 @@
+.search{
+    background-color: #EBE9E9;
+}
+.search>input{
+    background-color: #EBE9E9;
+}
+.notification:hover .noticontent{
+    display: block;
+}

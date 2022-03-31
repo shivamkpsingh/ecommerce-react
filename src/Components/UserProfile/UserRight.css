@@ -1,0 +1,20 @@
+
+.userRight__leftImg>img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
+
+.useRight__leftInput>input::placeholder{
+    color: white;
+}
+.userRight__input>input::placeholder{
+    color: white;
+}
+.half__input>input::placeholder{
+color: white;
+}
+.userProfile__right{
+    flex: 0.8;
+    /* background-color: lightsalmon; */
+}

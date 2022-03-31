@@ -1,0 +1,8 @@
+.pic_card::-webkit-scrollbar{
+    display: none;
+}
+@media only screen and (min-width:640px){
+    .homeCategory{
+        max-height: 705px;
+    }
+}

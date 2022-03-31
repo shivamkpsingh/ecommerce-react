@@ -1,0 +1,9 @@
+.discount__button{
+   background-color:rgba(255, 218, 191, 0.85)
+}
+.cart__img{
+    width: 219px;
+    height: 219px;
+    border: 1px solid lightgray;
+    object-fit: contain;
+}
